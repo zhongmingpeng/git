@@ -8,5 +8,6 @@ public class GitTest {
         System.out.println("hello o(=•ェ•=)m + 🐕");
         System.out.println("hello o(=•ェ•=)m + 🐱");
         System.out.println("master commit");
+        System.out.println("hot-fix test");
     }
 }
